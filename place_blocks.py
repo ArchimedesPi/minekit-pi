@@ -1,6 +1,6 @@
 """
 Place Blocks, a Minecraft structure creation tool which is part of Minekit
-Copyright 2013 L. Mars, R. Pierick
+Copyright 2013 Liam M
 
 This file is part of Minekit.
 
@@ -328,8 +328,7 @@ def do_shifted_pyramid():
                 break
 
 print("***Place Blocks 0.2.2*****")
-print("***Written by L.Mars,*****")
-print("**With help from Rowen P.*")
+print("***Written by Liam M*****")
 
 time.sleep(1)
 
