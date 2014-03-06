@@ -1,6 +1,6 @@
 """
 Place Blocks, a Minecraft structure creation tool which is part of Minekit
-Copyright 2013 Liam M
+(C) 2013, 2014 Liam M
 
 This file is part of Minekit.
 
